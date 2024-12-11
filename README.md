@@ -12,7 +12,7 @@
 - 💬 Ask me about **JS and Mern**
 
 - 📫 How to reach me **gauravjena48@gmail.com**
-- Feel free to visit my website **https://profile-page-hmhk.vercel.app/** 
+- Feel free to visit my website: https://profile-page-hmhk.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
