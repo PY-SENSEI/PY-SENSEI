@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaurav_jena" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_jena?logo=twitter&style=for-the-badge" alt="gaurav_jena" /></a> </p>
 
-- 🔭 I’m currently working on [SAAS_Digital_Hippo](https://github.com/PY-SENSEI/Hippo_digital_Market)
+- 🔭 I’m currently working on [TEXT_EDITOR](https://github.com/PY-SENSEI/text-editor)
 
 - 🌱 I’m currently learning **Nextjs and Threejs**
 
